@@ -4,5 +4,7 @@ PappaKiParri, age = 20, farig larki, friends = 20, videos = 10, photoes = 25
 notYourType, age = 23, instagram influencer, firends = 100, videos = 100, photos = 100
 memeMaterial, age= 27, crazy x memer, followrs = 1.2M, photos = 1k
 
+*This is from master*
+
 
 
