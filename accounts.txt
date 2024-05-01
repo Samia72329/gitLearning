@@ -1,0 +1,5 @@
+PubgProPlayer, age = 15, school boy, friends = 50, videos = 100, Photos = 16
+SigmaBoi, age = 30, tharki uncle, friends = 13, videos = 3, Photos = 160
+PappaKiParri, age = 20, farig larki, friends = 20, videos = 10, photoes = 25
+
+
